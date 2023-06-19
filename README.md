@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋🏾, I'm Nicole</h1>
 <h3 align="center">Aspiring Junior Front-End developer | Le Wagon graduate</h3>
 
+<h5 align="center">
+   🌱 I’m currently self-teaching JavaScript and React
 
-- 🌱 I’m currently self-teaching **JavaScript and React**
+    🤝 I’m looking for a junior front-end developer role**
 
-- 🤝 I’m looking for **a junior front-end developer role**
-
-- 📫 You can reach me <a href="nicoletmoncrieffe@gmail.com" target="_blank">here</a>
+    📫 You can reach me here: nicoletmoncrieffe@gmail.com
+</h5>
 
 
 <h3 align="left">Connect with me:</h3>

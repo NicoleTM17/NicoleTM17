@@ -4,7 +4,7 @@
 
 🌱 I’m currently self-teaching JavaScript and React
 
-🤝 I’m looking for a junior front-end developer role**
+🤝 I’m looking for a junior front-end developer role
 
 📫 You can reach me here: nicoletmoncrieffe@gmail.com
 

@@ -8,7 +8,10 @@
 
 📫 You can reach me here: nicoletmoncrieffe@gmail.com
 
-
+<h3 align="left">My portfolio:</h3>
+<p align="left">
+  <a href="https://nicolemoncrieffe.online" target="blank">Check it out here!</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

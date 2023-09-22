@@ -23,5 +23,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoleTM17&theme=radical)
-<br/>
+<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleTM17&layout=compact&theme=radical)
